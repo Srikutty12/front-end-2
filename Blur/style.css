@@ -1,0 +1,10 @@
+.blur{
+    width: 500px;
+    height: 300px;
+    filter:blur(15px)
+}
+.blur img {
+    width: 500px;
+    height: 300px;
+    filter:blur(15px)
+}
